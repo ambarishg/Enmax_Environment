@@ -40,7 +40,7 @@ file1 = open(filename, 'r',encoding="utf8")
 Lines = file1.readlines()
 file1.close()
 
-st.header("AEMO FPP Question and Answering System")
+st.header("ENMAX ESG Question and Answering System")
 
 user_input = st.text_area("Your Question",
 "What is FPP?")
