@@ -6,7 +6,7 @@ import re
 import string
 
 key = st.secrets["OPENAI_KEY"]
-filename = "data/ENMAX-ENVIRONMENT.txt"
+filename = "data/ENMAX_ESG.csv"
 import os
 import openai
 openai.api_key = key
