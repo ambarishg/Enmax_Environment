@@ -1,5 +1,6 @@
 pandas
+pinecone
 sentence-transformers
 streamlit
 openai
-pinecone
+
