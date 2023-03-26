@@ -2,3 +2,4 @@ pandas
 sentence-transformers
 streamlit
 openai
+pinecone
